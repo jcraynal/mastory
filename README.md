@@ -1,0 +1,2 @@
+# mastory
+mastorymap
